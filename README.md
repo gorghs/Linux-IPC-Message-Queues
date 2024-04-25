@@ -20,7 +20,10 @@ Execute the C Program for the desired output.
 
 # PROGRAM:
 
+
 Developed by : karthick v
+
+
 Register Number : 212223040086
 
 ## C program that receives a message from message queue and display them
